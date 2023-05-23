@@ -1,0 +1,3 @@
+# Term-Project-of-course-AI
+NGUYEN MINH THANH
+MSSV: 20146422
